@@ -1,1 +1,2 @@
 # Children-Anemia-Level-Predictor
+El aprendizaje computacional consta de métodos analíticos para prueba de hipótesis, potenciados por un software que eje- cute los métodos para diferentes casos. Las aplicaciones de estos métodos pueden variar, dependiendo del contexto donde se prueba su funcionalidad. Para esta situación problema, se busca demostrar si dichos métodos pueden ser usados en el campo de la medicina y las implicaciones que ello tendría para el estudio del mismo.
